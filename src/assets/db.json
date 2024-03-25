@@ -1,17 +1,28 @@
 {
-    "posts":[
-        {
-            "id":1,
-            "title":"Title 1",
-            "body":"This is body of title 1",
-            "userId":1
-        },
-        {
-            "id":2,
-            "title":"Title 2",
-            "body":"This is body of title 2",
-            "userId":1
-        }
-      
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Title 1",
+      "body": "This is body of title 1",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "title": "Title 2",
+      "body": "This is body of title 2",
+      "userId": 1
+    },
+    {
+      "id": null,
+      "title": "rana",
+      "body": "abobakar",
+      "userId": null
+    },
+    {
+      "id": null,
+      "title": "title 3",
+      "body": "this is title 3 body",
+      "userId": null
+    }
+  ]
 }
